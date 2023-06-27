@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello, I'm a CSAI Student at IIIT Delhi!<br>Welcome to my GitHub profile! I am currently pursuing a Bachelor's degree in Computer Science and Artificial Intelligence at IIIT Delhi. <br>I am passionate about mathematics and algorithms, and I enjoy exploring their applications in various domains.
+<br>Welcome to my GitHub profile! I am currently pursuing a Bachelor's degree in Computer Science and Artificial Intelligence at IIIT Delhi. <br>I am passionate about algorithms and mathematics, and I enjoy exploring their applications in various domains.
 
 
 # 💻 Tech Stack:
