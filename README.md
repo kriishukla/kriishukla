@@ -1,4 +1,4 @@
-# Krishna Shukla
+# Hi I'm Krishna Shukla
 
 Backend-focused software engineer with strong foundations in operating systems, databases, and applied machine learning.  
 Interested in building reliable, scalable systems and ML-backed production pipelines.
